@@ -1,4 +1,4 @@
-#include <iostream>
+#include <bits/stdc++.h>
 #include "create_tree.h"
 
 void searchbst(Node* root, int val){
