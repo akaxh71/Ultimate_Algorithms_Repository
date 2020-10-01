@@ -5,7 +5,7 @@ using namespace std;
 // TIME COMPLEXITY : O(N)
 // SPACE COMPLEXITY : O(N^2) , where N is the number of nodes
 vector<int> graph[10001];
-bool visited[10001];
+bool visited[10002];
 int nodes;
 
 void dfs(int node)
